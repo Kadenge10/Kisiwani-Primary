@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(21, 80, 80) ;
+
+}
+header{
+    border: 1pt solid black;
+}
+section{
+    border: 2pt solid grey;
+    background-image:'images/k.jpg ';
+}
