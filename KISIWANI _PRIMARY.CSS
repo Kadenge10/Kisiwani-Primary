@@ -1,11 +1,19 @@
 body{
-    background-color:rgb(21, 80, 80) ;
+     
 
 }
 header{
     border: 1pt solid black;
+    background-color: yellow;
 }
-section{
-    border: 2pt solid grey;
-    background-image:'images/k.jpg ';
+
+div.class1{
+    background-image: url('images/bg_image.jpg');
+    height: 500px;
+    background-size: cover;
+    border: 0dvi;
+}
+footer{
+    background-color: rgb(59, 59, 97);
+    height: 250px;
 }
