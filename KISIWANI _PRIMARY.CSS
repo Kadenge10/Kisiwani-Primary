@@ -17,3 +17,19 @@ footer{
     background-color: rgb(59, 59, 97);
     height: 250px;
 }
+ul{
+    margin-left: 75%;
+    background-color: rgba(150, 150, 99, 0.774) ;
+}
+li{ 
+    display: inline;
+    margin-left: 20px;
+
+}
+a{
+    
+    text-decoration: none;
+}
+a:hover{
+    background-color: yellowgreen;
+}
